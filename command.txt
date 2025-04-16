@@ -1,1 +1,1 @@
-Get-Date | Out-String
+Get-ChildItem D:\Users\JohnHuang\Documents | Out-String
