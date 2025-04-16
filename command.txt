@@ -1,1 +1,1 @@
-Get-ChildItem D:\Users\JohnHuang\Documents | Out-String
+Get-Content D:\Users\JohnHuang\Documents | Out-String
